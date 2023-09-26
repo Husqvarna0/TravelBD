@@ -422,7 +422,7 @@ h6 {
 }
 
 .no-webp .main-block__background{
-  background: linear-gradient(330.24deg, rgba(46, 47, 59, 0) 31.06%, #03062E 97.17%), url("img/main-block/main-block-background.jpg"); }
+  background: linear-gradient(330.24deg, rgba(46, 47, 59, 0) 31.06%, #03062E 97.17%), url("../img/main-block/main-block-background.jpg"); }
 
 .main-block__background {
   top: 0;
@@ -504,7 +504,7 @@ h6 {
 }
 
 .no-webp .content-main-block__column::before{
-  background: url("img/main-block/icons/play-button.png") 0 0 no-repeat; }
+  background: url("../img/main-block/icons/play-button.png") 0 0 no-repeat; }
 
 .content-main-block__column::before {
   content: "";
@@ -1043,7 +1043,7 @@ h6 {
 }
 
 .no-webp .reviews__description::before{
-  background: url("img/reviews/icons/reviews-icon-1.png"); }
+  background: url("../img/reviews/icons/reviews-icon-1.png"); }
 
 .reviews__description::before {
   content: "";
@@ -1055,7 +1055,7 @@ h6 {
 }
 
 .no-webp .reviews__description::after{
-  background: url("img/reviews/icons/reviews-icon-1.png"); }
+  background: url("../img/reviews/icons/reviews-icon-1.png"); }
 
 .reviews__description::after {
   content: "";
@@ -3645,10 +3645,10 @@ h6 {
   }
 }
 
-.webp .main-block__background{ background: linear-gradient(330.24deg, rgba(46, 47, 59, 0) 31.06%, #03062E 97.17%), url(img/main-block/main-block-background.webp); }
+.webp .main-block__background{ background: linear-gradient(330.24deg, rgba(46, 47, 59, 0) 31.06%, #03062E 97.17%), url(../img/main-block/main-block-background.webp); }
 
-.webp .content-main-block__column::before{ background: url(img/main-block/icons/play-button.webp) 0 0 no-repeat; }
+.webp .content-main-block__column::before{ background: url(../img/main-block/icons/play-button.webp) 0 0 no-repeat; }
 
-.webp .reviews__description::before{ background: url(img/reviews/icons/reviews-icon-1.webp); }
+.webp .reviews__description::before{ background: url(../img/reviews/icons/reviews-icon-1.webp); }
 
-.webp .reviews__description::after{ background: url(img/reviews/icons/reviews-icon-1.webp); }
+.webp .reviews__description::after{ background: url(../img/reviews/icons/reviews-icon-1.webp); }
