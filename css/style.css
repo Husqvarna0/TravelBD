@@ -349,7 +349,7 @@ h6 {
   
 }
 .footer__input:focus {
-		outline: 0;
+		outline: 0px;
 		border-radius: 0px;			
 }
 
